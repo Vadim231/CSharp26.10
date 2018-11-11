@@ -1,0 +1,15 @@
+﻿{
+  var Person =
+  {
+    "Name": "Vadim",
+    "Age": 18,
+    "Computer": {
+      "Row": 1,
+      "Number": 17
+    },
+    "Cabinet": {
+      "Floor": 2,
+      "Nuber": 206
+    }
+  }
+}

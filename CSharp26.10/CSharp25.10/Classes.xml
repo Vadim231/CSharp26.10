@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<Classes>
+  <User Name="" Age="">
+     <Name>Vadim</Name>
+     <Age>17</Age>
+  
+     <Name>Vadim2</Name>
+     <Age>18</Age>
+  </User>
+
+  <Computer Row="" Number="">
+    <Row>1</Row>
+    <Number>17</Number>
+
+    <Row>2</Row>
+    <Number>18</Number>
+  </Computer>
+
+  <Cabinet Floor="" Number="">
+    <Floor>2</Floor>
+    <Number>206</Number>
+  
+    <Floor>3</Floor>
+    <Number>305</Number>
+  </Cabinet>
+
+</Classes>
